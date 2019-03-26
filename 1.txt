@@ -1,0 +1,42 @@
+[
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                                                                                                                                  |
+                           S    SZ   S    S                                                                                       |
+                        S                     S                                                                                   |
+                    S                             S                                                                               |
+  -******------------*****************************+++++++-------------------------------------------------------------------------|
+wwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbpppppppbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb|
+wwbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb*******bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb|
+]
+
+player 150 2000
+
+portal 100 2500 1000 2000
+ 
+monster 500 2000 5 5 50 100
+
+monster 500 400 0 0 30 10
+
+monster 500 200 0 0 150 100
+
+
+/
